@@ -1,0 +1,13 @@
+{
+  "name": "duyulaikit",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@vercel/node": "^1.9.0",
+    "cloud-local-storage": "^0.0.11"
+  }
+}
